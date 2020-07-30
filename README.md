@@ -5,7 +5,7 @@ K-Means clustering method was used to produce clusters of images depending on se
 
 Initially the GAN model was trained using the MNIST dataset and then the celebA dataset was used to test and achieve the results.
 
-The celebA dataset consists of 20k images with more than 40 different facial attributes of celebrities such as brown hair, are smiling, wearing glasses, etc. 
+The celebA dataset consists of 200k images with more than 40 different facial attributes of celebrities such as brown hair, are smiling, wearing glasses, etc. 
 
 GANs, in general, can be defined as a generative model that lets us generate a whole image in parallel. Along with several other kinds of generative models, GANs uses a differentiable function represented by a neural network as a Generator Network.
 
